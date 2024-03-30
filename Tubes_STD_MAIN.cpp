@@ -521,16 +521,4 @@ int main() {
     Menu(LP, LC, LR);
     
    return 0;
-
-
-/*LP1->tes3, tes1
-LP2->tes1, tes2
-LP3->tes3
-LP1->tes4
-LP2->tes5
-LP3->tes6
-LP6->tes1
-LP2->tes3*/
-
-     
 }
